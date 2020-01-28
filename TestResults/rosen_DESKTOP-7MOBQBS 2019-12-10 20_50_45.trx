@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0ed2f62c-a962-49d7-aac1-3c55c2de51f6" name="rosen@DESKTOP-7MOBQBS 2019-12-10 20:50:45" runUser="DESKTOP-7MOBQBS\rosen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6a8507cf-6f11-4766-b96a-4723efafde01">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="rosen_DESKTOP-7MOBQBS 2019-12-10 20_50_45">
+      <DeploymentItem filename="C:\Users\rosen\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-12-10T20:50:45.2311716+02:00" queuing="2019-12-10T20:50:45.2905324+02:00" start="2019-12-10T20:50:45.3005054+02:00" finish="2019-12-10T20:54:06.7901941+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="12" executed="12" passed="12" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TooLongInput9" storage="c:\users\rosen\documents\visual studio 2010\projects\consoleapplication1\testproject1\bin\debug\testproject1.dll" id="0fa96e07-476d-d6c1-9f52-2dfdd2e84eeb">
+      <Execution id="529bb1ed-4094-4848-8148-a9eb9664ae8c" />
+      <TestMethod codeBase="C:/Users/rosen/Documents/Visual Studio 2010/Projects/ConsoleApplication1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TooLongInput9" />
+    </UnitTest>
+    <UnitTest name="UnSolveAbleTest9" storage="c:\users\rosen\documents\visual studio 2010\projects\consoleapplication1\testproject1\bin\debug\testproject1.dll" id="aa01f0ec-be9f-b238-7556-02c6df73055b">
+      <Execution id="38c248d6-0b13-45cd-a031-d033d800bbc3" />
+      <TestMethod codeBase="C:/Users/rosen/Documents/Visual Studio 2010/Projects/ConsoleApplication1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UnSolveAbleTest9" />
+    </UnitTest>
+    <UnitTest name="IsValidChars16" storage="c:\users\rosen\documents\visual studio 2010\projects\consoleapplication1\testproject1\bin\debug\testproject1.dll" id="83631cdc-e25d-c9a4-d195-dec52c8c3d4c">
+      <Execution id="bce03585-1880-4fba-845e-496d002ba3eb" />
+      <TestMethod codeBase="C:/Users/rosen/Documents/Visual Studio 2010/Projects/ConsoleApplication1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsValidChars16" />
+    </UnitTest>
+    <UnitTest name="TooLongInput4" storage="c:\users\rosen\documents\visual studio 2010\projects\consoleapplication1\testproject1\bin\debug\testproject1.dll" id="110d0422-0b81-fad3-bac2-c7220089d299">
+      <Execution id="31b67e0b-2269-4648-a440-cf51f675da01" />
+      <TestMethod codeBase="C:/Users/rosen/Documents/Visual Studio 2010/Projects/ConsoleApplication1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TooLongInput4" />
+    </UnitTest>
+    <UnitTest name="TooShortInput16" storage="c:\users\rosen\documents\visual studio 2010\projects\consoleapplication1\testproject1\bin\debug\testproject1.dll" id="0667b2cd-4a30-8cfd-4b49-163a152ca617">
+      <Execution id="59a83170-91a7-4389-8bb2-ad154903b348" />
+      <TestMethod codeBase="C:/Users/rosen/Documents/Visual Studio 2010/Projects/ConsoleApplication1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TooShortInput16" />
+    </UnitTest>
+    <UnitTest name="TooShortInput9" storage="c:\users\rosen\documents\visual studio 2010\projects\consoleapplication1\testproject1\bin\debug\testproject1.dll" id="6a7a1a3d-9f5b-5b71-372f-2a3facba3214">
+      <Execution id="d308a62a-195a-4de4-aa11-946a67bc1ac0" />
+      <TestMethod codeBase="C:/Users/rosen/Documents/Visual Studio 2010/Projects/ConsoleApplication1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TooShortInput9" />
+    </UnitTest>
+    <UnitTest name="UnSolveAbleTest16" storage="c:\users\rosen\documents\visual studio 2010\projects\consoleapplication1\testproject1\bin\debug\testproject1.dll" id="51a81c74-3e53-ee88-346f-1aeaaecc244e">
+      <Execution id="8db3b1c7-b715-4a30-b15f-77d5dfb749cf" />
+      <TestMethod codeBase="C:/Users/rosen/Documents/Visual Studio 2010/Projects/ConsoleApplication1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UnSolveAbleTest16" />
+    </UnitTest>
+    <UnitTest name="IsValidChars4" storage="c:\users\rosen\documents\visual studio 2010\projects\consoleapplication1\testproject1\bin\debug\testproject1.dll" id="af16c9d9-29cf-8696-09a4-2eea48e43890">
+      <Execution id="da2b6e2f-5fb3-41b6-b547-e118121f2feb" />
+      <TestMethod codeBase="C:/Users/rosen/Documents/Visual Studio 2010/Projects/ConsoleApplication1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsValidChars4" />
+    </UnitTest>
+    <UnitTest name="IsValidChars9" storage="c:\users\rosen\documents\visual studio 2010\projects\consoleapplication1\testproject1\bin\debug\testproject1.dll" id="70253c72-fb57-c723-4f01-d7ecb1260d2c">
+      <Execution id="2716b4f9-4204-494d-b3f4-7d036ad32da6" />
+      <TestMethod codeBase="C:/Users/rosen/Documents/Visual Studio 2010/Projects/ConsoleApplication1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsValidChars9" />
+    </UnitTest>
+    <UnitTest name="TooShortInput4" storage="c:\users\rosen\documents\visual studio 2010\projects\consoleapplication1\testproject1\bin\debug\testproject1.dll" id="eb3989e4-a9b2-0003-e25a-b77ae978707e">
+      <Execution id="1057a18c-6ffa-453f-b7ac-6b61cfe28355" />
+      <TestMethod codeBase="C:/Users/rosen/Documents/Visual Studio 2010/Projects/ConsoleApplication1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TooShortInput4" />
+    </UnitTest>
+    <UnitTest name="TooLongInput16" storage="c:\users\rosen\documents\visual studio 2010\projects\consoleapplication1\testproject1\bin\debug\testproject1.dll" id="b5e460df-e97a-6ee2-0de1-1ad24a562320">
+      <Execution id="557fcb21-928e-4479-a911-ddd4a6f97957" />
+      <TestMethod codeBase="C:/Users/rosen/Documents/Visual Studio 2010/Projects/ConsoleApplication1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TooLongInput16" />
+    </UnitTest>
+    <UnitTest name="UnSolveAbleTest4" storage="c:\users\rosen\documents\visual studio 2010\projects\consoleapplication1\testproject1\bin\debug\testproject1.dll" id="b4cd5e0b-9f57-379c-9c72-b04d4849fea1">
+      <Execution id="73b1385b-ef33-4958-a862-2d916958233a" />
+      <TestMethod codeBase="C:/Users/rosen/Documents/Visual Studio 2010/Projects/ConsoleApplication1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UnSolveAbleTest4" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0667b2cd-4a30-8cfd-4b49-163a152ca617" executionId="59a83170-91a7-4389-8bb2-ad154903b348" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0fa96e07-476d-d6c1-9f52-2dfdd2e84eeb" executionId="529bb1ed-4094-4848-8148-a9eb9664ae8c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="110d0422-0b81-fad3-bac2-c7220089d299" executionId="31b67e0b-2269-4648-a440-cf51f675da01" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="51a81c74-3e53-ee88-346f-1aeaaecc244e" executionId="8db3b1c7-b715-4a30-b15f-77d5dfb749cf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6a7a1a3d-9f5b-5b71-372f-2a3facba3214" executionId="d308a62a-195a-4de4-aa11-946a67bc1ac0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="70253c72-fb57-c723-4f01-d7ecb1260d2c" executionId="2716b4f9-4204-494d-b3f4-7d036ad32da6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83631cdc-e25d-c9a4-d195-dec52c8c3d4c" executionId="bce03585-1880-4fba-845e-496d002ba3eb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aa01f0ec-be9f-b238-7556-02c6df73055b" executionId="38c248d6-0b13-45cd-a031-d033d800bbc3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="af16c9d9-29cf-8696-09a4-2eea48e43890" executionId="da2b6e2f-5fb3-41b6-b547-e118121f2feb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b4cd5e0b-9f57-379c-9c72-b04d4849fea1" executionId="73b1385b-ef33-4958-a862-2d916958233a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5e460df-e97a-6ee2-0de1-1ad24a562320" executionId="557fcb21-928e-4479-a911-ddd4a6f97957" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="eb3989e4-a9b2-0003-e25a-b77ae978707e" executionId="1057a18c-6ffa-453f-b7ac-6b61cfe28355" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="59a83170-91a7-4389-8bb2-ad154903b348" testId="0667b2cd-4a30-8cfd-4b49-163a152ca617" testName="TooShortInput16" computerName="DESKTOP-7MOBQBS" duration="00:00:00.0183059" startTime="2019-12-10T20:50:45.3154662+02:00" endTime="2019-12-10T20:50:45.6499933+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="59a83170-91a7-4389-8bb2-ad154903b348">
+      <Output>
+        <StdOut>the length of the board is not possible
+255</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="529bb1ed-4094-4848-8148-a9eb9664ae8c" testId="0fa96e07-476d-d6c1-9f52-2dfdd2e84eeb" testName="TooLongInput9" computerName="DESKTOP-7MOBQBS" duration="00:00:00.0006347" startTime="2019-12-10T20:50:45.6599596+02:00" endTime="2019-12-10T20:50:45.6669423+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="529bb1ed-4094-4848-8148-a9eb9664ae8c">
+      <Output>
+        <StdOut>the length of the board is not possible
+82</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="31b67e0b-2269-4648-a440-cf51f675da01" testId="110d0422-0b81-fad3-bac2-c7220089d299" testName="TooLongInput4" computerName="DESKTOP-7MOBQBS" duration="00:00:00.0003185" startTime="2019-12-10T20:50:45.6789200+02:00" endTime="2019-12-10T20:50:45.6858938+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="31b67e0b-2269-4648-a440-cf51f675da01">
+      <Output>
+        <StdOut>the length of the board is not possible
+17</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8db3b1c7-b715-4a30-b15f-77d5dfb749cf" testId="51a81c74-3e53-ee88-346f-1aeaaecc244e" testName="UnSolveAbleTest16" computerName="DESKTOP-7MOBQBS" duration="00:03:18.9281598" startTime="2019-12-10T20:50:45.6948669+02:00" endTime="2019-12-10T20:54:04.6295962+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8db3b1c7-b715-4a30-b15f-77d5dfb749cf">
+      <Output>
+        <StdOut>1902   3400   &lt;060   0070
+   0080   0070   0300   9:6;
+   0&lt;00   :001   0=0;   00&gt;0
+   300?   200&gt;   0009   00&lt;0
+
+   =000   800:   0&lt;20   1?00
+   0;76   000@   000?   005=
+   000:   05?0   0408   00;0
+   @005   9&lt;00   1000   0080
+
+   0200   000=   00&lt;5   8003
+   0=00   ?030   0&gt;80   @000
+   5800   1000   2000   =9?0
+   00&lt;4   06@0   =007   0005
+
+   0300   &lt;000   6004   ;00@
+   0700   @050   &gt;001   0020
+   ;1?9   00=0   0200   0&gt;00
+   0&gt;00   0;02   00=3   500&lt;
+
+--------------------------------------------------
+
+   1002   3400   &lt;060   0070
+   0080   0070   0300   9:6;
+   0&lt;00   :001   0=0;   00&gt;0
+   300?   200&gt;   0009   00&lt;0
+
+   =000   800:   0&lt;20   1?00
+   0;76   000@   000?   005=
+   000:   05?0   0408   00;0
+   @005   9&lt;00   1000   0080
+
+   0200   000=   00&lt;5   8003
+   0=00   ?030   0&gt;80   @000
+   5800   1000   2000   =9?0
+   00&lt;4   06@0   =007   0005
+
+   0300   &lt;000   6004   ;00@
+   0700   @050   &gt;001   0020
+   ;1?9   00=0   0200   0&gt;00
+   0&gt;00   0;02   00=3   500&lt;
+
+--------------------------------------------------
+
+unsolveable
+   15:2   349;   &lt;@6&gt;   ?=78
+   &gt;@8=   5?7&lt;   4312   9:6;
+   9&lt;47   :@61   8=?;   35&gt;2
+   36;?   2=8&gt;   75:9   4@&lt;1
+
+   =4&gt;3   87;:   5&lt;26   1?@9
+   8;76   412@   9:&gt;?   &lt;35=
+   &lt;91:   =5?6   34@8   &gt;2;7
+   @?25   9&lt;&gt;3   1;7=   :684
+
+   62@&gt;   ;94=   ?1&lt;5   87:3
+   7=91   ?235   ;&gt;8:   @&lt;46
+   583;   1:&lt;7   264@   =9?&gt;
+   ?:&lt;4   &gt;6@8   =937   2;15
+
+   2358   &lt;&gt;:?   6794   ;1=@
+   :7=&lt;   @359   &gt;8;1   642?
+   ;1?9   68=4   @25&lt;   7&gt;3:
+   4&gt;6@   7;12   :?=3   589&lt;
+
+--------------------------------------------------</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d308a62a-195a-4de4-aa11-946a67bc1ac0" testId="6a7a1a3d-9f5b-5b71-372f-2a3facba3214" testName="TooShortInput9" computerName="DESKTOP-7MOBQBS" duration="00:00:00.0002001" startTime="2019-12-10T20:54:04.6365795+02:00" endTime="2019-12-10T20:54:04.6405691+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d308a62a-195a-4de4-aa11-946a67bc1ac0">
+      <Output>
+        <StdOut>the length of the board is not possible
+79</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2716b4f9-4204-494d-b3f4-7d036ad32da6" testId="70253c72-fb57-c723-4f01-d7ecb1260d2c" testName="IsValidChars9" computerName="DESKTOP-7MOBQBS" duration="00:00:00.0001833" startTime="2019-12-10T20:54:04.6505451+02:00" endTime="2019-12-10T20:54:04.6565265+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2716b4f9-4204-494d-b3f4-7d036ad32da6">
+    </UnitTestResult>
+    <UnitTestResult executionId="bce03585-1880-4fba-845e-496d002ba3eb" testId="83631cdc-e25d-c9a4-d195-dec52c8c3d4c" testName="IsValidChars16" computerName="DESKTOP-7MOBQBS" duration="00:00:00.0002572" startTime="2019-12-10T20:54:04.6655062+02:00" endTime="2019-12-10T20:54:04.6714879+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bce03585-1880-4fba-845e-496d002ba3eb">
+    </UnitTestResult>
+    <UnitTestResult executionId="38c248d6-0b13-45cd-a031-d033d800bbc3" testId="aa01f0ec-be9f-b238-7556-02c6df73055b" testName="UnSolveAbleTest9" computerName="DESKTOP-7MOBQBS" duration="00:00:02.0058669" startTime="2019-12-10T20:54:04.6824584+02:00" endTime="2019-12-10T20:54:06.6938812+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="38c248d6-0b13-45cd-a031-d033d800bbc3">
+      <Output>
+        <StdOut>516   849   732
+   307   605   000
+   809   700   065
+
+   135   060   907
+   472   591   006
+   968   370   050
+
+   253   186   074
+   684   207   500
+   791   050   608
+
+--------------------------------------------------
+
+   090   107   000
+   010   090   045
+   003   200   000
+
+   300   000   060
+   062   000   300
+   005   000   009
+
+   000   602   000
+   000   000   000
+   049   000   057
+
+--------------------------------------------------
+
+unsolveable
+   496   157   832
+   218   396   745
+   753   284   196
+
+   374   928   561
+   962   415   378
+   185   763   429
+
+   531   672   984
+   827   549   613
+   649   831   257
+
+--------------------------------------------------</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="da2b6e2f-5fb3-41b6-b547-e118121f2feb" testId="af16c9d9-29cf-8696-09a4-2eea48e43890" testName="IsValidChars4" computerName="DESKTOP-7MOBQBS" duration="00:00:00.0002198" startTime="2019-12-10T20:54:06.7058498+02:00" endTime="2019-12-10T20:54:06.7119364+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="da2b6e2f-5fb3-41b6-b547-e118121f2feb">
+    </UnitTestResult>
+    <UnitTestResult executionId="73b1385b-ef33-4958-a862-2d916958233a" testId="b4cd5e0b-9f57-379c-9c72-b04d4849fea1" testName="UnSolveAbleTest4" computerName="DESKTOP-7MOBQBS" duration="00:00:00.0004437" startTime="2019-12-10T20:54:06.7223494+02:00" endTime="2019-12-10T20:54:06.7283239+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="73b1385b-ef33-4958-a862-2d916958233a">
+      <Output>
+        <StdOut>00   02
+   10   00
+
+   02   00
+   00   20
+
+--------------------------------------------------
+
+   00   10
+   30   00
+
+   03   00
+   00   02
+
+--------------------------------------------------
+
+unsolveable
+   42   13
+   31   24
+
+   23   41
+   14   32
+
+--------------------------------------------------</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="557fcb21-928e-4479-a911-ddd4a6f97957" testId="b5e460df-e97a-6ee2-0de1-1ad24a562320" testName="TooLongInput16" computerName="DESKTOP-7MOBQBS" duration="00:00:00.0001866" startTime="2019-12-10T20:54:06.7372956+02:00" endTime="2019-12-10T20:54:06.7432789+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="557fcb21-928e-4479-a911-ddd4a6f97957">
+      <Output>
+        <StdOut>the length of the board is not possible
+257</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1057a18c-6ffa-453f-b7ac-6b61cfe28355" testId="eb3989e4-a9b2-0003-e25a-b77ae978707e" testName="TooShortInput4" computerName="DESKTOP-7MOBQBS" duration="00:00:00.0003088" startTime="2019-12-10T20:54:06.7522853+02:00" endTime="2019-12-10T20:54:06.7592850+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1057a18c-6ffa-453f-b7ac-6b61cfe28355">
+      <Output>
+        <StdOut>the length of the board is not possible
+15</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

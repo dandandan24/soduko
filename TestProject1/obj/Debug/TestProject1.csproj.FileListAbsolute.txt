@@ -1,0 +1,7 @@
+C:\Users\rosen\Documents\Visual Studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\rosen\Documents\Visual Studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\rosen\Documents\Visual Studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Debug\ConsoleApplication1.exe
+C:\Users\rosen\Documents\Visual Studio 2010\Projects\ConsoleApplication1\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\rosen\Documents\Visual Studio 2010\Projects\ConsoleApplication1\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\rosen\Documents\Visual Studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\rosen\Documents\Visual Studio 2010\Projects\ConsoleApplication1\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
